@@ -44,7 +44,7 @@ I’m a **final-year BCS (Computer Science)** student passionate about building 
 
 ---
 
-## 🚀 My Developer Journey (Unique Section)
+## 🚀 My Developer Journey
 > I believe consistency matters more than perfection.
 
 ### ✅ Completed
@@ -66,16 +66,6 @@ I’m a **final-year BCS (Computer Science)** student passionate about building 
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avinashkale14&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=avinashkale14&theme=radical" />
-</p>
-
----
 
 ## 🤝 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/avinashkale14  
