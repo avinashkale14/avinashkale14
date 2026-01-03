@@ -34,16 +34,21 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avinashkale14&show_icons=true&theme=dark" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avinashkale14&theme=dark" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=avinashkale14&show_icons=true&theme=radical&cache_seconds=86400" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=avinashkale14&theme=radical&cache_seconds=86400" />
+</p>
+
 
 ---
 
 ## 🧩 Languages Used
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinashkale14&layout=compact&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinashkale14&layout=compact&theme=radical&cache_seconds=86400"/>
 </p>
+
 
 ---
 
