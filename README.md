@@ -47,6 +47,10 @@
     alt="GitHub Streak"
   />
 </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=avinashkale14&theme=redical" />
+</p>
+
 
 
 ---
