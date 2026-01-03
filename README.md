@@ -1,82 +1,53 @@
-# 👋 Hi, I'm Avinash Kale
+<h1 align="center">👋 Hi there, I'm Avinash Kale</h1>
+<h3 align="center">Final-Year Computer Science Student | Frontend Developer | Aspiring Full-Stack Developer</h3>
 
-🎓 Final Year Computer Science Student  
-💻 Frontend Developer | Aspiring Full-Stack Developer  
-🚀 Passionate about building clean, responsive, and user-friendly web applications  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=avinashkale14&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
-
-- 🎓 Pursuing **B.Tech / B.E. in Computer Science**
-- 💡 Strong in **HTML, CSS, JavaScript & Bootstrap**
-- 🌱 Currently learning **Node.js, Express & Databases**
-- 🧠 Interested in **Career Guidance Systems & Web Apps**
-- 🏗️ Working on my **Final Year Project**
-- 🎯 Preparing for **campus placements**
+- 🎓 Final-year **BCS (Computer Science)** student  
+- 💻 Strong in **HTML, CSS, JavaScript, Bootstrap**
+- 🌱 Currently learning **Backend & Full-Stack Development**
+- 🚀 Working on **Student Skill Mapping & Career Suggestion System**
+- 🎯 Goal: Get placed as a **Frontend / Full-Stack Developer**
+- 📍 India
 
 ---
 
-## 🛠️ Tech Stack
-
-### 🌐 Frontend
-- HTML5  
-- CSS3  
-- JavaScript (ES6+)  
-- Bootstrap  
-
-### ⚙️ Backend
-- Node.js  
-- Express.js (Learning)
-
-### 🗄️ Database
-- MySQL  
-- MongoDB (Basics)
-
-### 🧰 Tools & Platforms
-- Git & GitHub  
-- VS Code  
-- XAMPP  
-- Postman  
+## 🧠 When I code, I rely on
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,mysql,nodejs&theme=dark" />
+</p>
 
 ---
 
 ## 📌 Projects
-
-### 🎯 Student Skill Mapping & Career Suggestion System
-- Web-based career guidance system
-- Analyzes student skills and interests
-- Suggests suitable career paths
-- **Tech:** HTML, CSS, JavaScript, Python/Flask (ML)
-
-### 🌐 Portfolio Website
-- Personal responsive portfolio
-- Showcases skills, projects & contact info
-- **Tech:** HTML, CSS, JavaScript
-
-*(More projects coming soon…)*
+- 🔹 **Student Skill Mapping & Career Suggestion System**
+- 🔹 **Personal Portfolio Website**
+- 🔹 CRUD Applications using **Java + JDBC + MySQL**
+- 🔹 Mini Projects using **JavaScript**
 
 ---
 
-## 📈 Currently Focusing On
-- Improving **Data Structures & Basics**
-- Backend Development (Node.js)
-- Interview Preparation
-- Real-world Projects
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=avinashkale14&show_icons=true&theme=radical&cache_seconds=86400" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=avinashkale14&theme=radical&cache_seconds=86400" />
+</p>
 
 ---
 
-## 📫 Connect With Me
-
-- 📧 Email: **avinashkale8263@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/avinashkale14](https://www.linkedin.com/in/avinashkale14)
-- 🌐 Portfolio: *Coming Soon*
+## 🤝 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/avinashkale14  
+- 📧 Email: avinashkale8263@gmail.com  
 
 ---
 
-## ⚡ Fun Fact
-I believe **consistent learning beats talent** 🚀
-
----
-
-⭐ If you like my work, consider following me!
+⭐ *Thanks for visiting my GitHub profile!*
