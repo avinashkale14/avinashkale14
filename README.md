@@ -24,7 +24,7 @@ I’m a **final-year BCS (Computer Science)** student passionate about building 
 
 ## 🧩 Skills & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python,reactjs,nodejs,expressjs,mysql,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python,react.js,nodejs,expressjs,mysql,git,github&theme=dark" />
 </p>
 
 ---
