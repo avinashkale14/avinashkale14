@@ -11,13 +11,13 @@ Final-Year Computer Science Student | Frontend Developer | Aspiring Full-Stack E
 
 ## 👨‍🎓 About Me
 Hey! 👋  
-I’m a **final-year BCS (Computer Science)** student who enjoys building clean, responsive, and user-friendly web applications.
+I’m a **final-year BCS (Computer Science)** student passionate about building clean, responsive, and user-friendly web applications.
 
 - 🎓 Final-Year Computer Science Student  
-- 💻 Frontend focused (HTML, CSS, JavaScript, Bootstrap)  
+- 💻 Frontend-focused (HTML, CSS, JavaScript, Bootstrap)  
 - 🌱 Currently learning Backend & Full-Stack Development  
 - 🚀 Working on **Student Skill Mapping & Career Suggestion System**  
-- 🎯 Career Goal: **Frontend / Full-Stack Developer**  
+- 🎯 Goal: **Frontend / Full-Stack Developer**  
 - 📍 India  
 
 ---
@@ -31,31 +31,31 @@ I’m a **final-year BCS (Computer Science)** student who enjoys building clean,
 
 ## 📌 Featured Projects
 - 🔹 **Student Skill Mapping & Career Suggestion System**  
-  _A system that analyzes skills and suggests suitable career paths_
+  _Analyzes student skills and suggests suitable career paths_
 
 - 🔹 **Personal Portfolio Website**  
-  _Responsive portfolio built using HTML, CSS & JavaScript_
+  _Responsive portfolio using HTML, CSS & JavaScript_
 
 - 🔹 **CRUD Applications (Java + JDBC + MySQL)**  
   _Hands-on backend and database experience_
 
 - 🔹 **JavaScript Mini Projects**  
-  _DOM manipulation & logic-based projects_
+  _Logic building & DOM manipulation_
 
 ---
 
-## 🚀 My Developer Journey (What makes me different)
-> I believe growth matters more than perfection.
+## 🚀 My Developer Journey (Unique Section)
+> I believe consistency matters more than perfection.
 
-### ✅ What I’ve Completed
+### ✅ Completed
 - HTML5, CSS3 (Flexbox, Grid, Responsive Design)  
 - JavaScript basics (DOM, Events, ES6)  
-- Git & GitHub (Repositories, Commits, README)  
+- Git & GitHub (Repositories, Commits, README)
 
 ### 🔄 Currently Learning
 - Advanced JavaScript  
-- Backend fundamentals (Node.js, Databases)  
-- Placement-focused problem solving  
+- Backend fundamentals (Node.js & Databases)  
+- Placement-focused problem solving
 
 ### 🎯 Next Goals (2025–2026)
 - Build & deploy a full-stack project  
@@ -66,7 +66,7 @@ I’m a **final-year BCS (Computer Science)** student who enjoys building clean,
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=avinashkale14&show_icons=true&theme=radical" />
 </p>
@@ -84,4 +84,4 @@ I’m a **final-year BCS (Computer Science)** student who enjoys building clean,
 ---
 
 ⭐ Thanks for visiting my GitHub profile!  
-I’m always learning, building, and improving 🚀
+I’m continuously learning, building, and improving 🚀
