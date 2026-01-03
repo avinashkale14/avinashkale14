@@ -35,12 +35,19 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avinashkale14&show_icons=true&theme=radical&cache_seconds=86400" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=avinashkale14&show_icons=true&theme=radical&hide_border=true"
+    alt="Avinash Kale GitHub stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=avinashkale14&theme=radical&cache_seconds=86400" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=avinashkale14&theme=radical&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
+
 
 ---
 
