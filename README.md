@@ -1,38 +1,54 @@
-# Hi there, I'm Avinash Kale 👋  
+<h1 align="center">👋 Hi there, I'm Avinash Kale</h1>
+<h3 align="center">Final-Year Computer Science Student | Frontend Developer | Aspiring Full-Stack Developer</h3>
 
-🎓 Final-year BCS Student  
-💻 Frontend Developer | Aspiring Full-Stack Developer  
-🚀 Passionate about building clean, responsive, and user-friendly web applications  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=avinashkale14&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
-- 🌱 Currently learning **JavaScript, Bootstrap & Backend basics**
-- 🧠 Interested in **Web Development & Software Engineering**
-- 🎯 Goal: Get placed as a **Full-Stack / Frontend Developer**
+- 🎓 Final-year **BCS (Computer Science)** student  
+- 💻 Strong in **HTML, CSS, JavaScript, Bootstrap**
+- 🌱 Currently learning **Backend & Full-Stack Development**
+- 🚀 Working on **Student Skill Mapping & Career Suggestion System**
+- 🎯 Goal: Get placed as a **Frontend / Full-Stack Developer**
 - 📍 India
 
 ---
 
-## 🛠️ Tech Stack
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+## 🧠 When I code, I rely on
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,mysql,nodejs&theme=dark" />
+</p>
 
 ---
 
 ## 📌 Projects
 - 🔹 **Student Skill Mapping & Career Suggestion System**
 - 🔹 **Personal Portfolio Website**
-- 🔹 Mini Projects using HTML, CSS & JavaScript
+- 🔹 CRUD Applications using **Java + JDBC + MySQL**
+- 🔹 Mini Projects using **JavaScript**
 
 ---
 
 ## 📊 GitHub Stats
-![Avinash's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=avinashkale14&show_icons=true&theme=radical&cache_seconds=86400" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=avinashkale14&theme=radical&cache_seconds=86400" />
+</p>
+
+---
+
+## 🧩 Languages Used
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinashkale14&layout=compact&langs_count=6&theme=radical&hide_border=true" />
+</p>
 
 ---
 
@@ -40,4 +56,6 @@
 - 💼 LinkedIn: https://www.linkedin.com/in/avinashkale14  
 - 📧 Email: avinashkale8263@gmail.com  
 
-⭐ *Thank you for visiting my profile!*
+---
+
+⭐ *Thanks for visiting my GitHub profile!*
