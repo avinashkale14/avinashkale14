@@ -48,8 +48,9 @@
 ## 🧩 Languages Used
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinashkale14&layout=compact&langs_count=6&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langsusername=avinashkale14&layout=compact&langs_count=6&theme=radical&hide_border=true" />
 </p>
+
 
 
 
