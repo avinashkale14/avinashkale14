@@ -89,9 +89,9 @@ I'm a passionate **final-year BCS (Computer Science)** student who enjoys buildi
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: www.linkedin.com/in/avinashkale14
 - 🌐 Portfolio: https://avinashkale.in
 - 📧 Email: avinashkale8263@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/avinashkale14
 
 ---
 
