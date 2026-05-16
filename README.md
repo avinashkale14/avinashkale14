@@ -1,5 +1,5 @@
 ```md
-<h1 align="center">👋 Hi, I'm Avinash Kale</h1>
+<h1 align="center">👋 Hi, I'm Avinash Kale</h1>  
 
 <h3 align="center">
 Final-Year Computer Science Student | Frontend Developer | Aspiring Full-Stack Engineer 🚀
