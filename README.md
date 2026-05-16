@@ -1,4 +1,3 @@
-```md
 <h1 align="center">👋 Hi, I'm Avinash Kale</h1>  
 
 <h3 align="center">
@@ -101,4 +100,3 @@ I'm a passionate **final-year BCS (Computer Science)** student who enjoys buildi
 <p align="center">
 I'm continuously learning, building, and improving every day 🚀
 </p>
-```
