@@ -47,7 +47,8 @@ Hey there! 👋 I'm **Avinash Kale**, a Computer Science graduate and Full-Stack
 
 ### 🏠 CozyNest
 
-**Full-Stack Accommodation Booking Platform** 
+**Full-Stack Accommodation Booking Platform**
+
 A web application that allows users to discover, list and manage accommodation properties.
 
 **Tech:** Node.js • Express.js • MongoDB • EJS • Bootstrap
@@ -60,7 +61,8 @@ A web application that allows users to discover, list and manage accommodation p
 
 ### 🌐 SocialSphere
 
-**Full-Stack Social Media Platform** 
+**Full-Stack Social Media Platform**
+
 A complete social media web application built using React.js, Node.js, Express.js and MySQL.
 
 **Tech:** React.js • Node.js • Express.js • MySQL • Cloudinary
@@ -73,7 +75,8 @@ A complete social media web application built using React.js, Node.js, Express.j
 
 ### 🌦️ WeatherWise
 
-**Weather Application** 
+**Weather Application**
+
 A responsive weather application that provides weather information using a weather API with a clean and simple interface.
 
 **Tech:** HTML • CSS • JavaScript • OpenWeather API
