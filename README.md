@@ -38,7 +38,7 @@ Hey there! 👋 I'm **Avinash Kale**, a Computer Science graduate and Full-Stack
 ## 🛠️ Skills & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,java,cpp,python,bootstrap,mongodb,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,express,mysql,java,cpp,python,bootstrap,mongodb,git,github,vscode&theme=dark" />
 </p>
 
 ### Frontend
