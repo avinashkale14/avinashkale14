@@ -41,56 +41,9 @@ Hey there! 👋 I'm **Avinash Kale**, a Computer Science graduate and Full-Stack
   <img src="https://skillicons.dev/icons?i=cpp,python,html,css,javascript,bootstrap,react,nodejs,express,mysql,mongodb,git,github,vscode&theme=dark" />
 </p>
 
-### Frontend
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-- React Router
-- React Query
-- Bootstrap
-- SCSS
-- Material UI
-
-### Backend
-- Node.js
-- Express.js
-- REST APIs
-- JWT Authentication
-- bcrypt
-- Multer
-
-### Database & Storage
-- MySQL
-- Railway
-- Cloudinary
-
-### Tools & Deployment
-- Git & GitHub
-- VS Code
-- Thunder Client
-- XAMPP
-- Nodemon
-- Vercel
-- Render
-
 ---
 
 ## 🚀 Featured Projects
-
-### 🌐 SocialSphere
-
-**Full-Stack Social Media Platform**
-
-A complete social media web application built using React.js, Node.js, Express.js and MySQL.
-
-**Tech:** React.js • Node.js • Express.js • MySQL • JWT • Cloudinary • SCSS
-
-🔗 **Live:** https://socialsphere-web.vercel.app/
-
-🔗 **Repository:** https://github.com/avinashkale14/SocialSphere
-
----
 
 ### 🏠 CozyNest
 
@@ -100,7 +53,23 @@ A web application that allows users to discover, list and manage accommodation p
 
 **Tech:** Node.js • Express.js • MongoDB • EJS • Bootstrap
 
+🔗 **Live:** https://cozynest-ue9b.onrender.com/
+
 🔗 **Repository:** https://github.com/avinashkale14/CozyNest
+
+---
+
+### 🌐 SocialSphere
+
+**Full-Stack Social Media Platform**
+
+A complete social media web application built using React.js, Node.js, Express.js and MySQL.
+
+**Tech:** React.js • Node.js • Express.js • MySQL • Cloudinary
+
+🔗 **Live:** https://socialsphere-web.vercel.app/
+
+🔗 **Repository:** https://github.com/avinashkale14/SocialSphere
 
 ---
 
@@ -111,6 +80,10 @@ A web application that allows users to discover, list and manage accommodation p
 A responsive weather application that provides weather information using a weather API with a clean and simple interface.
 
 **Tech:** HTML • CSS • JavaScript • OpenWeather API
+
+🔗 **Live:** https://weatherwise-ak.vercel.app/
+
+🔗 **Repository:** https://github.com/avinashkale14/weatherwise
 
 ---
 
