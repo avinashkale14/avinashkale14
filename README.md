@@ -117,7 +117,7 @@ Tools          → Git, GitHub, VS Code, Thunder Client
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avinashkale14&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=avinashkale14&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=avinashkale14&theme=tokyonight&hide_border=true" height="180em"/>
 </p>
 
@@ -126,7 +126,7 @@ Tools          → Git, GitHub, VS Code, Thunder Client
 ## 💻 Coding Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinashkale14&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=avinashkale14&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
