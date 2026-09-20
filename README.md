@@ -134,19 +134,15 @@ Tools          → Git, GitHub, VS Code, Thunder Client
 ## 🌐 Connect With Me
 
 <p align="center">
-
   <a href="https://avinashkale.in">
-    <img src="https://img.shields.io/badge/Portfolio-AVINASHKALE.IN-0969DA?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-avinashkale.in-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-
   <a href="https://www.linkedin.com/in/avinashkale14">
-    <img src="https://img.shields.io/badge/LinkedIn-AVINASH%20KALE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Avinash%20Kale-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
   <a href="https://github.com/avinashkale14">
-    <img src="https://img.shields.io/badge/GitHub-AVINASHKALE14-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-avinashkale14-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-
 </p>
 
 <p align="center">
