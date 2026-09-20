@@ -141,7 +141,7 @@ Tools          → Git, GitHub, VS Code, Thunder Client
     <img src="https://img.shields.io/badge/LinkedIn-Avinash%20Kale-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/avinashkale14">
-    <img src="https://img.shields.io/badge/GitHub-avinashkale14-bluue?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-avinashkale14-blue?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
